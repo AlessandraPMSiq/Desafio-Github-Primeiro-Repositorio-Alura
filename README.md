@@ -1,2 +1,2 @@
-# Desafio-Github-Primeiro-Repositorio-Alura
-Desafio do Projeto sobre o Git e GitHub da Alura
+# Desafio-do-Projeto-sobre-o-Git-e-GitHub-da-Alura
+Repositório criado para o Compartilhamento de Conhecimento
